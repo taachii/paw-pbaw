@@ -1776,6 +1776,7 @@ input, select, textarea {
 		width: -ms-max-content;
 		width: max-content;
 		margin: 2em auto;
+		text-align: center;
 	}
 
 		header.major > :first-child {

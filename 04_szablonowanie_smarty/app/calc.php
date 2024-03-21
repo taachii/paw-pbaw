@@ -65,7 +65,7 @@ function loadCalcView($form, $messages, $result) {
 	$smarty->assign('form', $form);
 	$smarty->assign('messages', $messages);
 	$smarty->assign('result', $result);
-	$smarty->assign('page_description', 'Wprowadź dane, aby obliczyć miesięczną ratę.');
+	$smarty->assign('page_description', 'Wprowadź dane, aby obliczyć miesięczną ratę');
 	$smarty->display(_ROOT_PATH.'/app/calc_view.tpl');	
 }
 

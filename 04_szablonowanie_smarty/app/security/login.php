@@ -40,7 +40,7 @@ function loadLoginView($form, $messages) {
   global $smarty;
   $smarty->assign('form', $form);
   $smarty->assign('messages', $messages);
-  $smarty->assign('page_description', 'Zaloguj się, aby uzyskać dostęp do aplikacji.');
+  $smarty->assign('page_description', 'Zaloguj się, aby uzyskać dostęp do aplikacji');
   $smarty->display(_ROOT_PATH.'/app/security/login_view.tpl');
 }
 
