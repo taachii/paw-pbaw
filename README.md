@@ -10,3 +10,4 @@
 5. [Obiektowość](https://github.com/taachii/paw-pbaw/tree/main/05_obiektowosc)
 6. [Nowa struktura, przestrzenie nazw i autoloader](https://github.com/taachii/paw-pbaw/tree/main/06_przestrzenie_nazw)
 7. [Role i routing](https://github.com/taachii/paw-pbaw/tree/main/07_routing)
+8. [Baza danych - Medoo](https://github.com/taachii/paw-pbaw/tree/main/08_baza_danych)
